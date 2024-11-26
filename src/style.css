@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+.bg-color{
+  background-color: #014e78;
+  color: white;
+}
